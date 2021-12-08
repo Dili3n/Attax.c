@@ -1,0 +1,101 @@
+Quel est le nom du joueur (symbol o) : Quel est le nom du joueur (symbol x) : 
+* * * * * * * * * 
+* x . . . . . o * 
+* . . . . . . . * 
+* . . . . . . . * 
+* . . . . . . . * 
+* . . . . . . . * 
+* . . . . . . . * 
+* o . . . . . x * 
+* * * * * * * * * 
+Score actuel : Dilien(o) 2 - Sarah(x) 2
+
+Dilien(o), veuillez saisir les coordonnées où joueur (entre 1 et 7) : 
+* * * * * * * * * 
+* o o . . . . o * 
+* . . . . . . . * 
+* . . . . . . . * 
+* . . . . . . . * 
+* . . . . . . . * 
+* . . . . . . . * 
+* o . . . . . x * 
+* * * * * * * * * 
+Score actuel : Dilien(o) 4 - Sarah(x) 1
+
+
+Sarah(x), veuillez saisir les coordonnées où joueur (entre 1 et 7) : 
+* * * * * * * * * 
+* o o . . . . x * 
+* . . . . . x . * 
+* . . . . . . . * 
+* . . . . . . . * 
+* . . . . . . . * 
+* . . . . . . . * 
+* o . . . . . x * 
+* * * * * * * * * 
+Score actuel : Dilien(o) 3 - Sarah(x) 3
+
+Dilien(o), veuillez saisir les coordonnées où joueur (entre 1 et 7) : 
+* * * * * * * * * 
+* o o . . . . x * 
+* . . . . . o . * 
+* . . . . . o . * 
+* . . . . . . . * 
+* . . . . . . . * 
+* . . . . . . . * 
+* o . . . . . x * 
+* * * * * * * * * 
+Score actuel : Dilien(o) 5 - Sarah(x) 2
+
+
+Sarah(x), veuillez saisir les coordonnées où joueur (entre 1 et 7) : 
+* * * * * * * * * 
+* o o . . . x x * 
+* . . . . . x . * 
+* . . . . . o . * 
+* . . . . . . . * 
+* . . . . . . . * 
+* . . . . . . . * 
+* o . . . . . x * 
+* * * * * * * * * 
+Score actuel : Dilien(o) 4 - Sarah(x) 4
+
+Dilien(o), veuillez saisir les coordonnées où joueur (entre 1 et 7) : 
+* * * * * * * * * 
+* o o . . . x x * 
+* . . . . . x . * 
+* . . . . . o . * 
+* . . . . . . . * 
+* . . . . . . . * 
+* . . . . . . o * 
+* o . . . . . o * 
+* * * * * * * * * 
+Score actuel : Dilien(o) 6 - Sarah(x) 3
+
+
+Sarah(x), veuillez saisir les coordonnées où joueur (entre 1 et 7) : 
+* * * * * * * * * 
+* o o . . . x x * 
+* . . . . . x . * 
+* . . . . . x x * 
+* . . . . . . . * 
+* . . . . . . . * 
+* . . . . . . o * 
+* o . . . . . o * 
+* * * * * * * * * 
+Score actuel : Dilien(o) 5 - Sarah(x) 5
+
+Dilien(o), veuillez saisir les coordonnées où joueur (entre 1 et 7) : 
+* * * * * * * * * 
+* o o . . . o o * 
+* . . . . . o o * 
+* . . . . . o o * 
+* . . . . . . . * 
+* . . . . . . . * 
+* . . . . . . o * 
+* o . . . . . o * 
+* * * * * * * * * 
+Score actuel : Dilien(o) 11 - Sarah(x) 0
+
+
+Bravo Dilien, vous avez gagné 11 à 0.
